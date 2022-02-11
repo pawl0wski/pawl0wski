@@ -61,3 +61,7 @@
 - 🏆 Third place in the "Hack Heroes" programming contest
 
 <br />
+
+### My most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeboczek&layout=compact)](https://github.com/jeboczek)
