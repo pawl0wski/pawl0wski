@@ -58,4 +58,4 @@
 
 ### My most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeboczek&layout=compact)](https://github.com/jeboczek)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpawlowskii&layout=compact)](https://github.com/jpawlowskii)
