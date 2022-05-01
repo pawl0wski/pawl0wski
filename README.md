@@ -8,7 +8,7 @@
 - 🐍 My first programming language was **Python**.
 - 📱 I have a [Google Play Developer account](https://play.google.com/store/apps/dev?id=5564990466874085550).
 - 🐦 I use **Flutter** to make mobile apps.
-- 📫 You can reach me at **jakub@jpawlowski.me*.
+- 📫 You can reach me at **jakub@jpawlowski.me**.
 
 ### Technologies I know
 
