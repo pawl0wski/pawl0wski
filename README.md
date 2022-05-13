@@ -41,7 +41,7 @@
 
 <img  alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  />
 
-<img  alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"  />
+<img  alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"  />
 
 <img  alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  />
 
