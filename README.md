@@ -9,6 +9,7 @@
 - 📱 I have a [Google Play Developer account](https://play.google.com/store/apps/dev?id=5564990466874085550).
 - 🐦 I use **Flutter** to make mobile apps.
 - 📫 You can reach me at **jakub@jpawlowski.me**.
+- 🌐 I have a personal website. Check it out [here](https://jpawlowski.me)!
 
 ### Technologies I know
 
