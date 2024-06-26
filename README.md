@@ -14,7 +14,7 @@
 
 <div style="display:flex; flex-direction:row; gap: 0.25rem; flex-wrap:wrap;padding-bottom:1rem;">
 
-<img  alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  />
+<img  alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  />
 
 <img  alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />
 
