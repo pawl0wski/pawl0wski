@@ -32,8 +32,6 @@
 
 <img  alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  />
 
-<img  alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"  />
-
 <img  alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  />
 
 <img  alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  />
