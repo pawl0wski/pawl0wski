@@ -4,7 +4,7 @@
 
 ### Some facts about me
 
-- 🐧 I use **GNU/Linux** as my operating system.
+- 💼 I am a Junior Full-Stack Developer at ecom.software.
 - 📱 I have a [Google Play Developer account](https://play.google.com/store/apps/dev?id=5564990466874085550).
 - 🐦 I use **Flutter** to make mobile apps.
 - 📫 You can reach me at **pawlowskijakub64@gmail.com**.
